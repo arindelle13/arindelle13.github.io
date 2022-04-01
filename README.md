@@ -1,6 +1,7 @@
 ## Arindelle Hub ;))
 Owned by Arielle Rey
 
+[Image](![image](https://user-images.githubusercontent.com/102721958/161282374-0969425a-0432-4cb6-9401-87fa7fbc43b1.png)
 
 
 music, art, books
