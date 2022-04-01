@@ -3,22 +3,18 @@ Owned by Arielle Rey
 
 ![image](https://user-images.githubusercontent.com/102721958/161282578-e640e3c6-d8d7-4215-8d9c-0f5034b53e9a.png)
 
-music, art, books
-
-### Playlists <3
 
 
-[playlist](https://open.spotify.com/playlist/0AsSCRRNGrhaVawrTl3yxs?si=572812c7751d4a23)
+### music, art, books
 
-[playlist](https://open.spotify.com/playlist/26c8gqFfG3o5k7UcKZHqfI?si=51a1682e203d4836)
 
-# 
 
-## Header 2
+
+## Playlists
 ### Header 3
 
-- Bulleted
-- List
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AsSCRRNGrhaVawrTl3yxs?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 
 1. Numbered
 2. List
