@@ -7,7 +7,7 @@ music, art, books
 
 ### Playlists <3
 
-
+[Link](https://open.spotify.com/playlist/0AsSCRRNGrhaVawrTl3yxs?si=5e372f11eeaf4aad)
 
 ```markdown
 Syntax highlighted code block
