@@ -1,7 +1,8 @@
 ## Arindelle Hub ;))
 Owned by Arielle Rey
 
-![image](https://user-images.githubusercontent.com/102721958/161282578-e640e3c6-d8d7-4215-8d9c-0f5034b53e9a.png)
+![image](https://user-images.githubusercontent.com/102721958/161291883-9e8ce134-eb3d-4722-b4e7-bfdd8e69245c.png)
+
 
 
 
@@ -11,9 +12,13 @@ Owned by Arielle Rey
 
 
 ## Playlists
-### Header 3
+
 
 [Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AsSCRRNGrhaVawrTl3yxs?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>) 
+
+[link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/47MypREjraCXQX8MQgy0CR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
+
+[Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3hJUfiIZgOYicsWqQPa7jh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
 
 
 1. Numbered
