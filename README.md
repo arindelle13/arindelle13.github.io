@@ -7,7 +7,7 @@ music, art, books
 
 ### Playlists <3
 
-![image](https://open.spotify.com/playlist/26c8gqFfG3o5k7UcKZHqfI?si=51a1682e203d4836)
+
 [playlist](https://open.spotify.com/playlist/0AsSCRRNGrhaVawrTl3yxs?si=572812c7751d4a23)
 
 [playlist](https://open.spotify.com/playlist/26c8gqFfG3o5k7UcKZHqfI?si=51a1682e203d4836)
