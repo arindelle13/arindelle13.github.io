@@ -8,9 +8,9 @@ music, art, books
 ### Playlists <3
 
 
-![link](https://open.spotify.com/playlist/0AsSCRRNGrhaVawrTl3yxs?si=572812c7751d4a23)
-```markdown
+[Link](https://open.spotify.com/playlist/0AsSCRRNGrhaVawrTl3yxs?si=572812c7751d4a23)
 
+[Link](https://open.spotify.com/playlist/26c8gqFfG3o5k7UcKZHqfI?si=51a1682e203d4836)
 
 # 
 
