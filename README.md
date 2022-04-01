@@ -16,13 +16,14 @@ Owned by Arielle Rey
 
 [Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AsSCRRNGrhaVawrTl3yxs?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>) 
 
-[link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/47MypREjraCXQX8MQgy0CR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
+
+[Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/47MypREjraCXQX8MQgy0CR?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
+
 
 [Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3hJUfiIZgOYicsWqQPa7jh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
 
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
