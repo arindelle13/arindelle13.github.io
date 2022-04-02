@@ -3,11 +3,14 @@ Owned by Arielle Rey
 
 shown are some of my interests hope you like it!
 
-[arindelle](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+[link](https://user-images.githubusercontent.com/102721958/161366961-e7fa48a7-f5e6-441e-91ef-89909433956c.mp4)
 
 
 
-### music, art, books
+
+
+### music, art, books, movies
 
 
 
@@ -33,7 +36,7 @@ Personalized Gift     2/23/2022
 
 
 
-## Book Recom
+## Book Recommendations
 
 
 ![image](https://user-images.githubusercontent.com/102721958/161366444-b291565f-ba18-403b-806d-a88cc510ce08.png)
@@ -54,7 +57,7 @@ Because little did she know, like the sun she adored, she was destined to be alo
 
 ![CHAP 143 COVER FINAL](https://user-images.githubusercontent.com/102721958/161366624-482efdf5-b8da-47d3-b83a-b041f6f9be3f.png)
 
-Synopsis:Hiraya - the fruit of one's dreams, wishes, and inspiration. Passion. Dreams. Love. Topics Raya could never lay her finger on. Arissea Hiraya Alvarez, a 2nd year psychology student, had always lived up to her name. But, life had taken her to a different path, a 3rd year business management student, Santi Hernandez. 
+Synopsis: Hiraya - the fruit of one's dreams, wishes, and inspiration. Passion. Dreams. Love. Topics Raya could never lay her finger on. Arissea Hiraya Alvarez, a 2nd year psychology student, had always lived up to her name. But, life had taken her to a different path, a 3rd year business management student, Santi Hernandez. 
 
 
 ![image](https://user-images.githubusercontent.com/102721958/161366661-88965465-591f-45b3-a3f5-40a483bc65fa.png)
@@ -66,14 +69,5 @@ Synopsis: Sea of Strangers by Lang Leav beautifully details the diverse emotions
 
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arindelle13/arindelle13.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
