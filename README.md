@@ -1,5 +1,6 @@
 ## Arindelle Hub ;))
 Owned by Arielle Rey
+
 shown are some my interest hope you like it!
 
 [Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
@@ -25,10 +26,10 @@ Starry Night
 ## Playlist
 
 
+[link](https://open.spotify.com/playlist/5n9MC3dPpdfxbRnyJHhYAH?si=36fda3375b6e403a)
 
 
-
-**Bold** and _Italic_ and `Code` text
+## Book Recom
 
 [Link](url) and ![Image](src)
 ```
