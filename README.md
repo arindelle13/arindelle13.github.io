@@ -40,7 +40,7 @@ Personalized Gift     2/23/2022
 Synopsis:In a family of doctors, Kalix decided to take a different path and found himself studying Legal Management in Ateneo De Manila University. With family pressure on him, he tried so hard to maintain his high grades as a Dean's Lister until Luna from UST Architecture came.
 
 
-![image](https://user-images.githubusercontent.com/102721958/161366580-e2d4d70d-ba1d-4fd9-b0cc-a667f7cdd0f4.png)
+![image](https://user-images.githubusercontent.com/102721958/161371261-f9ff6de7-b18d-4786-b268-141128657576.png)
 
 Synopsis: Solene Clemente was a typical Civil Engineering student who struggled to put up with her studies. Kung pwede ngang i-bake na lang ang napakaraming itlog sa test papers niya, ginawa niya na. At a young age, she experienced the harsh reality of life-poverty, abuse, and a broken family.
 
