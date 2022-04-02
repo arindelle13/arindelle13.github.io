@@ -64,6 +64,6 @@ Synopsis: Sea of Strangers by Lang Leav beautifully details the diverse emotions
 
 
 
-[Link](url) and ![Image](src)
+
 
 
