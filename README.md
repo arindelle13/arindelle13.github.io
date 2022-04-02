@@ -3,7 +3,7 @@ Owned by Arielle Rey
 
 shown are some of my interests hope you like it!
 
-[Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[arindelle](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
@@ -27,7 +27,7 @@ Personalized Gift     2/23/2022
 ## Playlist
 
 
-(<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5n9MC3dPpdfxbRnyJHhYAH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
+[Link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5n9MC3dPpdfxbRnyJHhYAH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
 
 
 
@@ -52,7 +52,7 @@ Kahit pa naghihirap, basta kasama niya ang ina, kaya niya. Kahit pa madalas niya
 Because little did she know, like the sun she adored, she was destined to be alone.
 
 
-![image](![CHAP 143 COVER FINAL](https://user-images.githubusercontent.com/102721958/161366624-482efdf5-b8da-47d3-b83a-b041f6f9be3f.png)
+![CHAP 143 COVER FINAL](https://user-images.githubusercontent.com/102721958/161366624-482efdf5-b8da-47d3-b83a-b041f6f9be3f.png)
 
 Synopsis:Hiraya - the fruit of one's dreams, wishes, and inspiration. Passion. Dreams. Love. Topics Raya could never lay her finger on. Arissea Hiraya Alvarez, a 2nd year psychology student, had always lived up to her name. But, life had taken her to a different path, a 3rd year business management student, Santi Hernandez. 
 
