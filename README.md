@@ -36,6 +36,7 @@ Personalized Gift     2/23/2022
 
 
 ![image](https://user-images.githubusercontent.com/102721958/161366444-b291565f-ba18-403b-806d-a88cc510ce08.png)
+
 Synopsis:In a family of doctors, Kalix decided to take a different path and found himself studying Legal Management in Ateneo De Manila University. With family pressure on him, he tried so hard to maintain his high grades as a Dean's Lister until Luna from UST Architecture came.
 
 
