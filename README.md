@@ -1,11 +1,9 @@
-## Arindelle Hub ;))
-Owned by Arielle Rey
+# Arindelle Hub ;))
+## Owned by Arielle Rey
 
-shown are some of my interests hope you like it!
-
+### shown are some of my interests hope you like it!
 
 [link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
-
 
 
 ### music, art, books, movies
