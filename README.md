@@ -15,7 +15,9 @@ Owned by Arielle Rey
 ![image](https://user-images.githubusercontent.com/102721958/161365096-71da73d6-93e6-4f35-a705-83daeafe8482.jpg)
 Starry Night
 
-![image](https://user-images.githubusercontent.com/102721958/161365200-a8c9d5d7-d4ee-4e7f-a93a-74373c3dfd87.jpg) ![image]((https://user-images.githubusercontent.com/102721958/161365260-63f617c9-67f2-46f0-a83c-554be0a4b996.jpg)
+![image](https://user-images.githubusercontent.com/102721958/161365200-a8c9d5d7-d4ee-4e7f-a93a-74373c3dfd87.jpg) 
+
+![image](https://user-images.githubusercontent.com/102721958/161365260-63f617c9-67f2-46f0-a83c-554be0a4b996.jpg)
 
 
 
