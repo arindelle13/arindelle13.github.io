@@ -11,9 +11,9 @@ Owned by Arielle Rey
 
 
 
-## Playlists
-### Header 3
-[link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AsSCRRNGrhaVawrTl3yxs?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
+## Art
+![image](https://user-images.githubusercontent.com/102721958/161365096-71da73d6-93e6-4f35-a705-83daeafe8482.jpg)
+
 
 
 
