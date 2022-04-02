@@ -3,7 +3,7 @@ Owned by Arielle Rey
 
 shown are some of my interests hope you like it!
 
-[Link](iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe)
+[Link](<iframe width="560" height="315" src="https://www.youtube.com/embed/jx0lXWUfkAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 
@@ -14,20 +14,20 @@ shown are some of my interests hope you like it!
 
 ## My Art
 ![image](https://user-images.githubusercontent.com/102721958/161365096-71da73d6-93e6-4f35-a705-83daeafe8482.jpg)
-Starry Night
+Starry Night 7/01/19
 
 ![image](https://user-images.githubusercontent.com/102721958/161365200-a8c9d5d7-d4ee-4e7f-a93a-74373c3dfd87.jpg) 
-Painted an old CD
+Painted an old CD  3/27/20
 
 ![image](https://user-images.githubusercontent.com/102721958/161365260-63f617c9-67f2-46f0-a83c-554be0a4b996.jpg)
-Personalized Gift
+Personalized Gift  2/23/22
 
 
 
 ## Playlist
 
 
-[link](iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5n9MC3dPpdfxbRnyJHhYAH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe)
+[link](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5n9MC3dPpdfxbRnyJHhYAH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
 
 
 
